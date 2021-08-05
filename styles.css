@@ -107,6 +107,7 @@
     .wrapper{
     
         flex-wrap: wrap;
+        height: fit-content;
     }
 
     .card{
